@@ -73,6 +73,8 @@ This end-to-end project focuses on analyzing customer behavior to identify churn
 ## 📊 Sample Dashboard
 
 > *(Insert screenshots of your Power BI dashboard and churn model output here)*
+> *Summary Dashboard*
+![image](https://github.com/user-attachments/assets/402c8e5d-4944-4327-a58c-eb1db64d4507)
 
 ---
 

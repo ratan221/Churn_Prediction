@@ -90,5 +90,6 @@ This end-to-end project focuses on analyzing customer behavior to identify churn
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/churn-analysis-sql-powerbi-python.git
+git clone [https://github.com/ratan221/Churn_Prediction.git]
 ```
+
